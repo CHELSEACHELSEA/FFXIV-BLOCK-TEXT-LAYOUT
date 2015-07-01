@@ -4,6 +4,7 @@ A block text keyboard layout for FFXIV
 For Windows 7
 
 To Install
+
 1. unzip file
 2. install using setup
 3. navigate to control panel > Clock, Language, and Region
